@@ -1,32 +1,27 @@
+### 注意：该项目是将Leaflet源码中的注释翻译为中文，从而生成API文档。所有内容均来自[Leaflet Github主页](https://github.com/Leaflet/Leaflet.git)，并添加和修改一些内容，如有侵权，请联系本人。
+------
+
+Leaflet官方网站：http://www.leafletjs.com
+<br/>
+Leaflet中文网站：http://www.leafletjs.com.cn
+
 <img src="http://leafletjs.com/docs/images/logo.png" alt="Leaflet" />
 
-Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
-Weighing just about 33 KB of gzipped JS code, it has all the mapping [features][] most developers ever need.
+Leaflet是一个开源的JavaScript库，对**移动端友好且对地图有很好的交互性**。 
+Leaflet由<a href="http://agafonkin.com">Vladimir Agafonkin</a>开发，它是<a href="http://mapbox.com">Mapbox</a>公司中专注于开源的一个<a href="https://github.com/Leaflet/Leaflet/graphs/contributors">团队</a>。
+Leaflet大小仅仅只有33 KB，同时具有大多数地图所需要的特点。
 
-Leaflet is designed with *simplicity*, *performance* and *usability* in mind.
-It works efficiently across all major desktop and mobile platforms out of the box,
-taking advantage of HTML5 and CSS3 on modern browsers while being accessible on older ones too.
-It can be extended with a huge amount of [plugins][],
-has a beautiful, easy to use and [well-documented][] API
-and a simple, readable [source code][] that is a joy to [contribute][] to.
+Leaflet设计的非常<em>简单易懂</em>, 同时具有很好的<em>性能</em>和<em>易用性</em>。
+它使用了大量的HTML5和CSS3特性，使它在现代浏览器和移动端表现的非常出色。
 
-For more info, docs and tutorials, check out the [official website][].<br>
-For **Leaflet downloads** (including the built master version), check out the [download page][].
+Leaflet有大量的<a href="plugins.html">插件</a>用于扩张Leaflet的功能。还有相当棒的API用户文档和易读的<a title="Leaflet source code repository on GitHub" href="https://github.com/Leaflet/Leaflet">源码</a>。
 
-We're happy to meet new contributors.
-If you want to **get involved** with Leaflet development, check out the [contribution guide][contribute].
-Let's make the best mapping library that will ever exist,
-and push the limits of what's possible with online maps!
+阅读更多信息，请查看[official website](http://leafletjs.com)。<br>
+**下载Leaflet**，请查看下载页面[download page](http://leafletjs.com/download.html)。
+我们非常期待新的贡献者加入。
+你可以参与其中<a title="A guide to contributing to Leaflet" href="https://github.com/Leaflet/Leaflet/blob/master/CONTRIBUTING.md">贡献</a> 自己的力量！
 
-[![Build Status](https://travis-ci.org/Leaflet/Leaflet.svg?branch=master)](https://travis-ci.org/Leaflet/Leaflet)
+让我们一起创造世界上最好的制图库，并在在线地图中创建无尽的可能！
 
- [contributors]: https://github.com/Leaflet/Leaflet/graphs/contributors
- [features]: http://leafletjs.com/#features
- [plugins]: http://leafletjs.com/plugins.html
- [well-documented]: http://leafletjs.com/reference.html "Leaflet API reference"
- [source code]: https://github.com/Leaflet/Leaflet "Leaflet GitHub repository"
- [hosted on GitHub]: http://github.com/Leaflet/Leaflet
- [contribute]: https://github.com/Leaflet/Leaflet/blob/master/CONTRIBUTING.md "A guide to contributing to Leaflet"
- [official website]: http://leafletjs.com
- [download page]: http://leafletjs.com/download.html
+[![Build Status](https://travis-ci.org/Leaflet/Leaflet.png?branch=master)](https://travis-ci.org/Leaflet/Leaflet)
 
